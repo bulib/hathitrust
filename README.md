@@ -7,16 +7,16 @@ For Boston University, a general publishing profile is defined: HT Annual Print 
 
 This publishing profile publishes the records in the managed set to an FTP server. As part of the publishing job, the marc_xml records are enhanced with fields from the item records mapped to 949 subfields. The 949 field mapping is below 
 
-949 field mapping: 
-Material type subfield: k
-Item status subfield: m
-Enumeration A subfield: a
-Enumeration B subfield: b
-Chronology I subfield: c
-Chronology J subfield: d
-Description subfield: e
-Process type subfield: f
-Permanent library subfield: g
-Permanent location subfield: h
-Current library subfield: i 
-Current location subfield: j
+#949 field mapping: 
+*Material type subfield: k
+*Item status subfield: m
+*Enumeration A subfield: a
+*Enumeration B subfield: b
+*Chronology I subfield: c
+*Chronology J subfield: d
+*Description subfield: e
+*Process type subfield: f
+*Permanent library subfield: g
+*Permanent location subfield: h
+*Current library subfield: i 
+*Current location subfield: j
